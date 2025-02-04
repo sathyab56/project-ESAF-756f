@@ -1,0 +1,28 @@
+.seal28stamp {
+  width: fit-content;
+  height: 11mm;
+  border: 1px solid lightgray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+.seal28name {
+  font-weight: bold;
+  font-size: 12pt;
+  text-align: center;
+}
+
+.seal28emp-id {
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+.seal28box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

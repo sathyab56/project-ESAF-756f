@@ -1,0 +1,26 @@
+.seal29stamp {
+  width: fit-content;
+  border: 2px solid lightgrey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  padding: 0px;
+  height: 11mm;
+}
+
+.seal29role {
+  font-weight: bold;
+  font-size: 14px;
+  text-align: center;
+}
+
+.seal29bank-name {
+  font-size: 12px;
+  text-align: center;
+}
+
+.seal29branch {
+  font-size: 12px;
+}

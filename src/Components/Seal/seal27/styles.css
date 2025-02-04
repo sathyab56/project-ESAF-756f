@@ -1,0 +1,50 @@
+.seal27stamp {
+    width: 40mm;
+    height: 30mm;
+    border: 1.8pt solid black;
+    padding: 0px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.seal27branch-name {
+    font-size: 8.5pt;
+    font-weight: bolder;
+    font-family: 'Corbel', Arial, sans-serif;
+    margin: 0;
+    line-height: 1.2;
+}
+
+.seal27branch-name p {
+    font-size: 11pt;
+    margin: 0px;
+    font-family: 'Swis721 Cn BT', Arial, sans-serif;
+    font-weight: 100;
+    margin-bottom: 15px;
+}
+
+.seal27reject {
+    font-size: 13pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.seal27officer {
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.seal27box {
+    width: 40mm;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
